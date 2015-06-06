@@ -1,0 +1,9 @@
+﻿/* 
+	humanstxt.org 
+	The humans responsible & technology colophon
+*/
+
+/* TEAM */
+Creator: Joshua Heath
+
+Location: Missouri, USA.
